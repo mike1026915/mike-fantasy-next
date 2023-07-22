@@ -72,9 +72,9 @@ const Sidebar = () => {
   return (
     <aside
       className={`
-        bg-dark-green z-1 top-0 left-0 fixed min-h-[100vh] transition-all
+        bg-dark-green z-1 top-0 left-0 min-h-[100vh] transition-all
         sm:w-[30vh]
-        pl-3
+        pl-5 pr-1
         ${isOpen ? 'md:w-[30vh]' : 'md:w-[50px]' }
       `}
       ref={asideRef}

@@ -1,22 +1,4 @@
 {
-    "contacts": {
-        "email": {
-            "link": "mailto:mike1026915.cs96@g2.nctu.edu.tw",
-            "text": "mike1026915.cs96@g2.nctu.edu.tw"
-        },
-        "linkedin": {
-            "link": "https://www.linkedin.com/in/mike1026915/",
-            "text": "My LinkedIn"
-        },
-        "website": {
-            "link": "https://www.mike-fang.com",
-            "text": "My Personal Website"
-        },
-        "location": {
-            "link": "https://en.wikipedia.org/wiki/Taipei",
-            "text": "Taipei, Taiwan"
-        }
-    },
     "skills": [
         {
             "title": "General",
@@ -48,7 +30,6 @@
             "items": [ "English (Business Fluency, TOEIC 940)", "Chinese (Native Speaker)", "Japanese (Beginner)" ]
         }
     ],
-    "summary": "A competent software engineer, adaptive quick learner, committed team player, and communicative project leader. Participated in developing security system software and large SaaS web service. Both products have more than million of users around the world. With the 10-year experience including software development, software testing, support engineer and project leader, I really love working with a fantastic team to make creative products to help our clients to solve their problems. ",
     "education": [
         {
             "school": "National Chiao Tung University",
@@ -73,6 +54,19 @@
         }
     ],
     "experience": [
+        {
+            "role": "Senior Full Stack Engineer",
+            "company": "Placements.io",
+            "location": "Taipei, Taiwan",
+            "project": "Placements.io",
+            "url": "https://placements.io/",
+            "start": "11/2022",
+            "end": "now",
+            "description": "Advertise Order Management System",
+            "events": [
+                "Develop feature with React/Redux with TypeScript as frontend and Ruby on Rails as backend, collacorating with U.S. team"
+            ]
+        },
         {
             "role": "Lead Software Engineer",
             "company": "VYOND",
@@ -194,9 +188,5 @@
             ]
         }
     ],
-    "title": "Senior Software Engineer / Team Leader",
-    "projects": [],
-    "name": "Mike Fang",
-    "chineseName": "方鍾豪",
     "hobby": ["Reading", "Cooking", "Traveling", "Singing" , "Chatting with Friends", "Life"]
 }

@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Me = () => {
   return (
     <div
-      className="flex flex-col justify-center mb-1"
+      className="flex flex-col justify-center mb-1 mr-5"
     >
       <div
         className="relative w-[25vh] h-[25vh] mb-2 "
@@ -17,12 +17,12 @@ const Me = () => {
         />
       </div>
       <div
-        className="text-5xl font-bold mt-10 ml-12"
+        className="text-5xl font-bold mt-10 ml-12 text-gray-100"
       >
         Mike Fang
       </div>
       <q
-        className="text-base italic leading-8 tracking-wider mt-5 mx-10"
+        className="text-base italic leading-8 tracking-wider mt-5 mx-10 text-gray-100"
       >
         Try my best to do right things with right people then enjoy an easy life
       </q>

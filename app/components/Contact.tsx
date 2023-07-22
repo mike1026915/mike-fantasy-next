@@ -83,7 +83,7 @@ export default function Contact() {
 
   return (
     <ul
-      className="flex justify-start gap-1 w-full mt-5 ml-12"
+      className="flex justify-start gap-1 w-full mt-5 ml-12 mr-5"
     >
       {
         Object.entries(contacts).map(([key, src]) => {
